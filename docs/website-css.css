@@ -1,0 +1,39 @@
+.container {
+    position: relative;
+}
+head {
+    background-color:#F3D9DC;
+    color:#634974;
+    font-family:cursive;
+}
+title {
+    font-size: 26px;
+}
+author {
+    font-size: 17px;
+}
+.clearfix {
+    overflow: auto;
+}
+body {
+    max-width: 600px;
+    margin-left: 200px;
+    background-color:#EAF3F9;
+    color:#516B53;
+    font-family:"times new roman"
+}
+nav{
+    position: absolute;
+    left: 0px;
+    width: 200px;
+}
+p{
+    padding: 20px;
+    border: solid indigo 10px;
+}
+
+img{
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 50%;
+}
