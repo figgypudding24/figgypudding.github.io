@@ -18,7 +18,9 @@ author {
 body {
     max-width: 600px;
     margin-left: 200px;
-    background-color:#EAF3F9;
+}
+p{
+     background-color:#EAF3F9;
     color:#516B53;
     font-family:"times new roman"
 }
