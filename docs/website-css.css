@@ -9,9 +9,6 @@ h1 {
 author {
     font-size: 17px;
 }
-.clearfix {
-    overflow: auto;
-}
 body {
     max-width: 600px;
     margin-left: 200px;
@@ -19,17 +16,13 @@ body {
 p{
      background-color:#EAF3F9;
     color:#516B53;
-    font-family:"times new roman"
+    font-family:"times new roman";
+    padding: 50%;
 }
 nav{
    display: block;
    position: absolute;
 }
-p{
-    padding: 20px;
-    border: solid indigo 10px;
-}
-
 img{
     float: right;
     margin: 0 0 1em 1em;
