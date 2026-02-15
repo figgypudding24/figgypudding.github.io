@@ -6,7 +6,7 @@ head {
     color:#634974;
     font-family:cursive;
 }
-h1 {
+title {
     font-size: 26px;
 }
 author {
@@ -23,8 +23,9 @@ body {
     font-family:"times new roman"
 }
 nav{
-   display: block;
-   unicode-bidi: isolate;
+    position: absolute;
+    left: 0px;
+    width: 200px;
 }
 p{
     padding: 20px;
