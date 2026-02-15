@@ -5,6 +5,9 @@ head {
 }
 h1 {
     font-size: 26px;
+    background-color:#F3D9DC;
+    color:#634974;
+    font-family:cursive;
 }
 author {
     font-size: 17px;
