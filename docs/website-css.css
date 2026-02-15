@@ -24,7 +24,7 @@ body {
 }
 nav{
    display: block;
-   unicode-bidi: isolate;
+   position: absolute;
 }
 p{
     padding: 20px;
