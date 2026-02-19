@@ -1,0 +1,30 @@
+h1 {
+    font-size: 26px;
+    background-color:#F0B8CB;
+    color:#634974;
+    font-family:cursive;
+}
+author {
+    font-size: 17px;
+}
+body {
+    max-width: 600px;
+    margin-left: 200px;
+}
+p{
+    background-color:#A3D2CE;
+    color:#516B53;
+    font-family:"times new roman";
+    padding: 5%;
+}
+nav{
+   display: block;
+   position: absolute;
+   border: 10px;
+   border-color: pink;
+}
+img{
+    float: right;
+    margin: 0 0 1em 1em;
+    width: 50%;
+}
